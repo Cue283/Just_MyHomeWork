@@ -1,0 +1,7 @@
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\GenRectangle\bin\Debug\GenRectangle.exe.config
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\GenRectangle\bin\Debug\GenRectangle.exe
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\GenRectangle\bin\Debug\GenRectangle.pdb
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\GenRectangle\obj\Debug\GenRectangle.csproj.AssemblyReference.cache
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\GenRectangle\obj\Debug\GenRectangle.csproj.CoreCompileInputs.cache
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\GenRectangle\obj\Debug\GenRectangle.exe
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\GenRectangle\obj\Debug\GenRectangle.pdb

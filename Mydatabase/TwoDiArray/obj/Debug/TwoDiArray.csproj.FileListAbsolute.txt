@@ -1,0 +1,7 @@
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\TwoDiArray\bin\Debug\TwoDiArray.exe.config
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\TwoDiArray\bin\Debug\TwoDiArray.exe
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\TwoDiArray\bin\Debug\TwoDiArray.pdb
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\TwoDiArray\obj\Debug\TwoDiArray.csproj.AssemblyReference.cache
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\TwoDiArray\obj\Debug\TwoDiArray.csproj.CoreCompileInputs.cache
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\TwoDiArray\obj\Debug\TwoDiArray.exe
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\TwoDiArray\obj\Debug\TwoDiArray.pdb

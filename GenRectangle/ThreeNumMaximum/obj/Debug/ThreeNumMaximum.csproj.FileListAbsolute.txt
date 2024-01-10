@@ -1,0 +1,10 @@
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\ThreeNumMaximum\bin\Debug\ThreeNumMaximum.exe.config
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\ThreeNumMaximum\bin\Debug\ThreeNumMaximum.exe
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\ThreeNumMaximum\bin\Debug\ThreeNumMaximum.pdb
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\ThreeNumMaximum\obj\Debug\ThreeNumMaximum.csproj.AssemblyReference.cache
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\ThreeNumMaximum\obj\Debug\ThreeNumMaximum.Form1.resources
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\ThreeNumMaximum\obj\Debug\ThreeNumMaximum.Properties.Resources.resources
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\ThreeNumMaximum\obj\Debug\ThreeNumMaximum.csproj.GenerateResource.cache
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\ThreeNumMaximum\obj\Debug\ThreeNumMaximum.csproj.CoreCompileInputs.cache
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\ThreeNumMaximum\obj\Debug\ThreeNumMaximum.exe
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\ThreeNumMaximum\obj\Debug\ThreeNumMaximum.pdb

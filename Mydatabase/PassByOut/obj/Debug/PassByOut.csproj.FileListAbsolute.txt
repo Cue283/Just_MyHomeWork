@@ -1,0 +1,7 @@
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\PassByOut\bin\Debug\PassByOut.exe.config
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\PassByOut\bin\Debug\PassByOut.exe
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\PassByOut\bin\Debug\PassByOut.pdb
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\PassByOut\obj\Debug\PassByOut.csproj.AssemblyReference.cache
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\PassByOut\obj\Debug\PassByOut.csproj.CoreCompileInputs.cache
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\PassByOut\obj\Debug\PassByOut.exe
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\PassByOut\obj\Debug\PassByOut.pdb

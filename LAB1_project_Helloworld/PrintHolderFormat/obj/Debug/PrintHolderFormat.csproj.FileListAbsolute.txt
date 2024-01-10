@@ -1,0 +1,7 @@
+C:\Users\AdviceIT\Desktop\6540201529\LAB1_project_Helloworld\PrintHolderFormat\bin\Debug\PrintHolderFormat.exe.config
+C:\Users\AdviceIT\Desktop\6540201529\LAB1_project_Helloworld\PrintHolderFormat\bin\Debug\PrintHolderFormat.exe
+C:\Users\AdviceIT\Desktop\6540201529\LAB1_project_Helloworld\PrintHolderFormat\bin\Debug\PrintHolderFormat.pdb
+C:\Users\AdviceIT\Desktop\6540201529\LAB1_project_Helloworld\PrintHolderFormat\obj\Debug\PrintHolderFormat.csproj.AssemblyReference.cache
+C:\Users\AdviceIT\Desktop\6540201529\LAB1_project_Helloworld\PrintHolderFormat\obj\Debug\PrintHolderFormat.csproj.CoreCompileInputs.cache
+C:\Users\AdviceIT\Desktop\6540201529\LAB1_project_Helloworld\PrintHolderFormat\obj\Debug\PrintHolderFormat.exe
+C:\Users\AdviceIT\Desktop\6540201529\LAB1_project_Helloworld\PrintHolderFormat\obj\Debug\PrintHolderFormat.pdb

@@ -1,0 +1,7 @@
+C:\Users\AdviceIT\Desktop\6540201529\LAB1_project_Helloworld\Swap\obj\Debug\Swap.csproj.AssemblyReference.cache
+C:\Users\AdviceIT\Desktop\6540201529\LAB1_project_Helloworld\Swap\obj\Debug\Swap.csproj.CoreCompileInputs.cache
+C:\Users\AdviceIT\Desktop\6540201529\LAB1_project_Helloworld\Swap\bin\Debug\Swap.exe.config
+C:\Users\AdviceIT\Desktop\6540201529\LAB1_project_Helloworld\Swap\bin\Debug\Swap.exe
+C:\Users\AdviceIT\Desktop\6540201529\LAB1_project_Helloworld\Swap\bin\Debug\Swap.pdb
+C:\Users\AdviceIT\Desktop\6540201529\LAB1_project_Helloworld\Swap\obj\Debug\Swap.exe
+C:\Users\AdviceIT\Desktop\6540201529\LAB1_project_Helloworld\Swap\obj\Debug\Swap.pdb

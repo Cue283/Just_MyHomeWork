@@ -1,0 +1,7 @@
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\PassByRef\bin\Debug\PassByRef.exe.config
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\PassByRef\bin\Debug\PassByRef.exe
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\PassByRef\bin\Debug\PassByRef.pdb
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\PassByRef\obj\Debug\PassByRef.csproj.AssemblyReference.cache
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\PassByRef\obj\Debug\PassByRef.csproj.CoreCompileInputs.cache
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\PassByRef\obj\Debug\PassByRef.exe
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\PassByRef\obj\Debug\PassByRef.pdb

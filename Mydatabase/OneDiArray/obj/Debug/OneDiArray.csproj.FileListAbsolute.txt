@@ -1,0 +1,7 @@
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\OneDiArray\bin\Debug\OneDiArray.exe.config
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\OneDiArray\bin\Debug\OneDiArray.exe
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\OneDiArray\bin\Debug\OneDiArray.pdb
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\OneDiArray\obj\Debug\OneDiArray.csproj.AssemblyReference.cache
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\OneDiArray\obj\Debug\OneDiArray.csproj.CoreCompileInputs.cache
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\OneDiArray\obj\Debug\OneDiArray.exe
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\OneDiArray\obj\Debug\OneDiArray.pdb

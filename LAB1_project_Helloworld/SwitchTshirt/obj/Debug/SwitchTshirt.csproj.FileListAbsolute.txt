@@ -1,0 +1,7 @@
+C:\Users\AdviceIT\Desktop\6540201529\LAB1_project_Helloworld\SwitchTshirt\obj\Debug\SwitchTshirt.csproj.AssemblyReference.cache
+C:\Users\AdviceIT\Desktop\6540201529\LAB1_project_Helloworld\SwitchTshirt\obj\Debug\SwitchTshirt.csproj.CoreCompileInputs.cache
+C:\Users\AdviceIT\Desktop\6540201529\LAB1_project_Helloworld\SwitchTshirt\bin\Debug\SwitchTshirt.exe.config
+C:\Users\AdviceIT\Desktop\6540201529\LAB1_project_Helloworld\SwitchTshirt\bin\Debug\SwitchTshirt.exe
+C:\Users\AdviceIT\Desktop\6540201529\LAB1_project_Helloworld\SwitchTshirt\bin\Debug\SwitchTshirt.pdb
+C:\Users\AdviceIT\Desktop\6540201529\LAB1_project_Helloworld\SwitchTshirt\obj\Debug\SwitchTshirt.exe
+C:\Users\AdviceIT\Desktop\6540201529\LAB1_project_Helloworld\SwitchTshirt\obj\Debug\SwitchTshirt.pdb

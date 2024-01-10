@@ -1,0 +1,10 @@
+C:\Users\AdviceIT\Desktop\6540201529\ModularChecker\MultiplicationApp\bin\Debug\MultiplicationApp.exe.config
+C:\Users\AdviceIT\Desktop\6540201529\ModularChecker\MultiplicationApp\bin\Debug\MultiplicationApp.exe
+C:\Users\AdviceIT\Desktop\6540201529\ModularChecker\MultiplicationApp\bin\Debug\MultiplicationApp.pdb
+C:\Users\AdviceIT\Desktop\6540201529\ModularChecker\MultiplicationApp\obj\Debug\MultiplicationApp.csproj.AssemblyReference.cache
+C:\Users\AdviceIT\Desktop\6540201529\ModularChecker\MultiplicationApp\obj\Debug\MultiplicationApp.Form1.resources
+C:\Users\AdviceIT\Desktop\6540201529\ModularChecker\MultiplicationApp\obj\Debug\MultiplicationApp.Properties.Resources.resources
+C:\Users\AdviceIT\Desktop\6540201529\ModularChecker\MultiplicationApp\obj\Debug\MultiplicationApp.csproj.GenerateResource.cache
+C:\Users\AdviceIT\Desktop\6540201529\ModularChecker\MultiplicationApp\obj\Debug\MultiplicationApp.csproj.CoreCompileInputs.cache
+C:\Users\AdviceIT\Desktop\6540201529\ModularChecker\MultiplicationApp\obj\Debug\MultiplicationApp.exe
+C:\Users\AdviceIT\Desktop\6540201529\ModularChecker\MultiplicationApp\obj\Debug\MultiplicationApp.pdb

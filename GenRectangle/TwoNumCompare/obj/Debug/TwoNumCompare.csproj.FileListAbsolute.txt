@@ -1,0 +1,10 @@
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\TwoNumCompare\bin\Debug\TwoNumCompare.exe.config
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\TwoNumCompare\bin\Debug\TwoNumCompare.exe
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\TwoNumCompare\bin\Debug\TwoNumCompare.pdb
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\TwoNumCompare\obj\Debug\TwoNumCompare.csproj.AssemblyReference.cache
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\TwoNumCompare\obj\Debug\TwoNumCompare.Form1.resources
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\TwoNumCompare\obj\Debug\TwoNumCompare.Properties.Resources.resources
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\TwoNumCompare\obj\Debug\TwoNumCompare.csproj.GenerateResource.cache
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\TwoNumCompare\obj\Debug\TwoNumCompare.csproj.CoreCompileInputs.cache
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\TwoNumCompare\obj\Debug\TwoNumCompare.exe
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\TwoNumCompare\obj\Debug\TwoNumCompare.pdb

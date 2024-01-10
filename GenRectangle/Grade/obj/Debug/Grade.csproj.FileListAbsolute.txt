@@ -1,0 +1,10 @@
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\Grade\bin\Debug\Grade.exe.config
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\Grade\bin\Debug\Grade.exe
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\Grade\bin\Debug\Grade.pdb
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\Grade\obj\Debug\Grade.csproj.AssemblyReference.cache
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\Grade\obj\Debug\Grade.Form1.resources
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\Grade\obj\Debug\Grade.Properties.Resources.resources
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\Grade\obj\Debug\Grade.csproj.GenerateResource.cache
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\Grade\obj\Debug\Grade.csproj.CoreCompileInputs.cache
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\Grade\obj\Debug\Grade.exe
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\Grade\obj\Debug\Grade.pdb

@@ -1,0 +1,7 @@
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\PassByValue\obj\Debug\PassByValue.csproj.AssemblyReference.cache
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\PassByValue\obj\Debug\PassByValue.csproj.CoreCompileInputs.cache
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\PassByValue\bin\Debug\PassByValue.exe.config
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\PassByValue\bin\Debug\PassByValue.exe
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\PassByValue\bin\Debug\PassByValue.pdb
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\PassByValue\obj\Debug\PassByValue.exe
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\PassByValue\obj\Debug\PassByValue.pdb

@@ -1,0 +1,7 @@
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\Mydatabase\bin\Debug\Mydatabase.exe.config
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\Mydatabase\bin\Debug\Mydatabase.exe
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\Mydatabase\bin\Debug\Mydatabase.pdb
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\Mydatabase\obj\Debug\Mydatabase.csproj.AssemblyReference.cache
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\Mydatabase\obj\Debug\Mydatabase.csproj.CoreCompileInputs.cache
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\Mydatabase\obj\Debug\Mydatabase.exe
+C:\Users\AdviceIT\Desktop\6540201529\Mydatabase\Mydatabase\obj\Debug\Mydatabase.pdb

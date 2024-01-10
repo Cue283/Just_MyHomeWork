@@ -1,0 +1,7 @@
+C:\Users\AdviceIT\Desktop\6540201529\LAB1_project_Helloworld\Compare\bin\Debug\Compare.exe.config
+C:\Users\AdviceIT\Desktop\6540201529\LAB1_project_Helloworld\Compare\bin\Debug\Compare.exe
+C:\Users\AdviceIT\Desktop\6540201529\LAB1_project_Helloworld\Compare\bin\Debug\Compare.pdb
+C:\Users\AdviceIT\Desktop\6540201529\LAB1_project_Helloworld\Compare\obj\Debug\Compare.csproj.AssemblyReference.cache
+C:\Users\AdviceIT\Desktop\6540201529\LAB1_project_Helloworld\Compare\obj\Debug\Compare.csproj.CoreCompileInputs.cache
+C:\Users\AdviceIT\Desktop\6540201529\LAB1_project_Helloworld\Compare\obj\Debug\Compare.exe
+C:\Users\AdviceIT\Desktop\6540201529\LAB1_project_Helloworld\Compare\obj\Debug\Compare.pdb

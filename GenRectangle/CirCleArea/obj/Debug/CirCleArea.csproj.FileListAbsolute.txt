@@ -1,0 +1,10 @@
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\CirCleArea\bin\Debug\CirCleArea.exe.config
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\CirCleArea\bin\Debug\CirCleArea.exe
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\CirCleArea\bin\Debug\CirCleArea.pdb
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\CirCleArea\obj\Debug\CirCleArea.csproj.AssemblyReference.cache
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\CirCleArea\obj\Debug\CirCleArea.Form1.resources
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\CirCleArea\obj\Debug\CirCleArea.Properties.Resources.resources
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\CirCleArea\obj\Debug\CirCleArea.csproj.GenerateResource.cache
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\CirCleArea\obj\Debug\CirCleArea.csproj.CoreCompileInputs.cache
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\CirCleArea\obj\Debug\CirCleArea.exe
+C:\Users\AdviceIT\Desktop\6540201529\GenRectangle\CirCleArea\obj\Debug\CirCleArea.pdb
