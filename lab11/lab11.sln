@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursive", "Recursive\Recursive.csproj", "{5667D5E0-6E90-405F-9D8A-744E16F8D7C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerOfHanoi", "TowerOfHanoi\TowerOfHanoi.csproj", "{091F42E8-E3C7-4F3D-BFB6-98343491D5CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5667D5E0-6E90-405F-9D8A-744E16F8D7C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5667D5E0-6E90-405F-9D8A-744E16F8D7C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5667D5E0-6E90-405F-9D8A-744E16F8D7C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5667D5E0-6E90-405F-9D8A-744E16F8D7C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{091F42E8-E3C7-4F3D-BFB6-98343491D5CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{091F42E8-E3C7-4F3D-BFB6-98343491D5CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{091F42E8-E3C7-4F3D-BFB6-98343491D5CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{091F42E8-E3C7-4F3D-BFB6-98343491D5CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B851523-8E50-4147-A950-D132D171A30C}
+	EndGlobalSection
+EndGlobal
