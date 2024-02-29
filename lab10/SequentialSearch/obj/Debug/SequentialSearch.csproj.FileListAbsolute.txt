@@ -1,0 +1,7 @@
+C:\Users\AdviceIT\Desktop\6540201529\lab10\SequentialSearch\bin\Debug\SequentialSearch.exe.config
+C:\Users\AdviceIT\Desktop\6540201529\lab10\SequentialSearch\bin\Debug\SequentialSearch.exe
+C:\Users\AdviceIT\Desktop\6540201529\lab10\SequentialSearch\bin\Debug\SequentialSearch.pdb
+C:\Users\AdviceIT\Desktop\6540201529\lab10\SequentialSearch\obj\Debug\SequentialSearch.csproj.AssemblyReference.cache
+C:\Users\AdviceIT\Desktop\6540201529\lab10\SequentialSearch\obj\Debug\SequentialSearch.csproj.CoreCompileInputs.cache
+C:\Users\AdviceIT\Desktop\6540201529\lab10\SequentialSearch\obj\Debug\SequentialSearch.exe
+C:\Users\AdviceIT\Desktop\6540201529\lab10\SequentialSearch\obj\Debug\SequentialSearch.pdb
